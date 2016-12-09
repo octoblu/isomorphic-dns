@@ -1,0 +1,23 @@
+{
+  "name": "isomorphic-dns",
+  "version": "1.0.0",
+  "description": "Node.js dns library that uses google's DNS over HTTPS as a fallback for browsers",
+  "main": "index-node.js",
+  "browser": "index-webpack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octoblu/isomorphic-dns.git"
+  },
+  "author": "Octoblu, Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/octoblu/isomorphic-dns/issues"
+  },
+  "homepage": "https://github.com/octoblu/isomorphic-dns#readme",
+  "dependencies": {
+    "http-dns": "^2.0.5"
+  }
+}
