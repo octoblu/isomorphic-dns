@@ -1,11 +1,11 @@
 {
   "name": "isomorphic-dns",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node.js dns library that uses google's DNS over HTTPS as a fallback for browsers",
   "main": "index-node.js",
   "browser": "index-webpack.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Tests are for the unsure\""
   },
   "repository": {
     "type": "git",
