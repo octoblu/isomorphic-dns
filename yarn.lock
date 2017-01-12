@@ -54,9 +54,9 @@ formidable@^1.0.17:
   version "1.0.17"
   resolved "https://registry.yarnpkg.com/formidable/-/formidable-1.0.17.tgz#ef5491490f9433b705faa77249c99029ae348559"
 
-http-dns@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/http-dns/-/http-dns-3.0.0.tgz#d43bee9d9cde3246e1128ef16213f2735b6cc959"
+http-dns@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/http-dns/-/http-dns-3.0.1.tgz#17f3f64af54f8d6b9ab38b89f86ee477eb674f14"
   dependencies:
     lodash "^4.17.2"
     superagent "^3.1.0"
